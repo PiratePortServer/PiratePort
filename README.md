@@ -23,6 +23,66 @@ Welcome to the PiratePort - Wiki. Here you will able to find and perceive our ex
 - 📖| Appeals: [appeals.pirateport.org](appeals.pirateport.org)
 - 🛒| Store: [store.pirateport.org](store.pirateport.org)
 
+## Ranks
+
+**Standard commands and privileges that every rank has:**
+```
+- Allowed to place 1 upgradable hopper
+- Allowed to place 1 minion
+- Allowed to create 1 playershop
+- Allowed to join 1 job
+- Allowed to sell 3 items in the auction house
+/lottery buy <amount> <- up to 3 tickets
+/shop <- access to every section except the spawners
+/afk
+/spawn
+/jobs
+/balance
+/balance <name>
+/balancetop
+/hat
+/pay
+/suicide
+/sit
+/fish menu
+/minion store
+/trade <name>
+/tempfly
+/tempfly time
+/tempfly time <name>
+/tempfly pay <name> <time>
+/warps
+/tpa <name>
+/tpahere <name>
+/tpaccept
+/tpdeny
+/tptoggle
+/ah
+/ah sell <price>
+/playershop
+/playershop create
+All island commands (/island/, ..)
+All skill commands (/skill, ...)
+All custom enchant commands (/enchanter, /tinkerer, /alchemist, ...)
+All fishing commands (/fish menu)
+```
+
+| Rank | Commands and Privileges | Upgrade |
+|-----:|-----------|-------|
+|     Default| - All standard commands and privileges| 1500$ & 30 minutes of playtime|
+|     Sailor| - Allowed to create 2 playershops| 3000$ & 50 minutes of playtime|
+|     Cooksmate| - Allowed to place 3 upgradable hoppers  - Allowed to create 3 playershops - Allowed to buy 5 lottery tickets - Allowed to join 2 jobs - Allowed to list 6 items in the auction house | 7500$ & 70 minutes of playtime|
+|     Rummaster| - Allowed to place 2 minions | 15000$ & 90 minutes of playtime|
+|     Lookout| - Allowed to buy 7 lottery tickets| 35000$ & 110 minutes of playtime|
+|     Engineer| - Allowed to place 4 upgradable hoppers  - Allowed to place 3 minions - Allowed to join 3 jobs | 65000$ & 130 minutes of playtime|
+|     Cannonner| - Allowed to access the spawner section in the shop - Allowed to list 9 items in the auction house | 85000$ & 160 minutes of playtime|
+|     Sergeant| - Allowed to create 10 playershops - Allowed to buy 9 lotterytickets | 100000$ & 190 minutes of playtime|
+|     Navigator| - Allowed to place 5 upgradable hoppers - Allowed to place 4 minions - Allowed to create 7 playershops -/sellhandall | 150000$ & 220 minutes of playtime|
+|     Captain| - Allowed to join 4 jobs - Allowed to act as a middleman in contracts -/contract middleman portfolio | 200000 & 250 minutes of playtime|
+|     Admiral| - Allowed to place 6 upgradable hoppers  - Allowed to create 9 playershops - Allowed to buy 11 lottery tickets - Allowed to join 5 jobs - Allowed to list 12 items in the auction house - Allowed to place 5 minions | Donation|
+|     PirateKing| - Colorcodes in Anvils - Display item in Chat [i] - /disposal - /fly - /ec - /pet - Allowed to place 7 upgradable hoppers - Allowed to join 6 jobs - Allowed to place 6 minions - Allowed to create 11 playershops - Allowed to buy 14 lottery tickets - Allowed to list 15 items in the auction house - PirateKing-Tag | Donation|
+|     LordoftheSeas| - Allowed to equip minion skins - /nick - Allowed to place 8 upgradable hoppers - Allowed to join 7 jobs - Allowed to place 7 minions - Allowed to create 13 playershops - Allowed to buy 17 lottery tickets - Allowed to list 18 items in the auction house - LordoftheSeas-Tag | X |
+
 ## Skyblock Island
 
 Skyblock and the islands that come with it are the center of the server's gameplay. Here are all the commands you need:
@@ -63,7 +123,7 @@ You can find a list of all the enchantments [here](https://ae.advancedplugins.ne
 
 ## Skills
 
-There are different skills that enhance the gameplay and actions like pvp and farming imense. Here are the skills and the options to level them:
+There are different ```/skills``` that enhance the gameplay and actions like pvp and farming imense. Here are the skills and the options to level them:
 ```
     Farming - Harvest crops to earn Farming XP
     Foraging - Cut trees to earn Foraging XP
