@@ -2,17 +2,28 @@
 # PiratePort - Wiki
 Welcome to the PiratePort - Wiki. Here you will able to find and perceive our extensive Wiki about all the features we have on the PiratePort Server. Firstly, here is a chapter overview to navigate through all topics:
 - [**Information**](#information)
+- [**Skyblock - Island**](#skyblock-island)
+- [**Custom Enchantments**](#custom-enchantments)
+- [**Skills**](#skills)
+- [**Display Item in Chat**](#display-item-in-chat)
+- [**Colorcodes in Anvil**](#colorcodes-in-anvil)
+- [**Contracts**](#contracts)
+- [**Sellwands**](#sellwands)
+- [**Tags**](#tags)
+
+⛔ **Be informed that this Wiki isn't complete yet. It will be updated everyday!** ⛔ 
+
 >
 ## Information
 
-- 📌| IP: play.pirateport.org
+- 📌| IP: play.pirateport.org (Versions: 1.16(.4) - 1.20.1)
     - 🖥️ | Server-Port: 25565
     - 📱 | Bedrock-Port: 19132
 - 🔊| Discord: [discord.pirateport.org](discord.pirateport.org)
 - 📖| Appeals: [appeals.pirateport.org](appeals.pirateport.org)
 - 🛒| Store: [store.pirateport.org](store.pirateport.org)
 
-## Skyblock / Island
+## Skyblock Island
 
 Skyblock and the islands that come with it are the center of the server's gameplay. Here are all the commands you need:
 
